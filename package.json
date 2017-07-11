@@ -1,5 +1,5 @@
 {
-  "name": "sass-loader",
+  "name": "@researchgate/sass-loader",
   "version": "4.1.1",
   "description": "Sass loader for webpack",
   "main": "lib/loader.js",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "peerDependencies": {
     "node-sass": "^3.4.2 || ^4.0.0",
-    "webpack": "^2 || ^2.2.0-rc.0 || ^2.1.0-beta || ^1.12.6"
+    "webpack": "^3 || ^2 || ^2.2.0-rc.0 || ^2.1.0-beta || ^1.12.6"
   },
   "dependencies": {
     "async": "^2.0.1",
